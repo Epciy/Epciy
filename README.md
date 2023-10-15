@@ -1,4 +1,4 @@
-<p align="left">- 👋 Hi, I’m @Mina<br>- I'm a self-taught software developer<br>- 👀 I’m interested in all things like programming, problem-solving and designing<br>- 🌱 I’m currently brushing up my algorithms  and Data structures skills<br>- 💞️ I’m looking to collaborate on any project as long as I can help and/or learn along the way<br>- 🥅 My goals are to: Contribute  to Open Source projects and become a better backend programmer</p>
+<p align="left">- 👋 Hi, I’m @Mina<br>- I'm a self-taught software developer<br>- 👀 I’m interested in all things like programming, problem-solving and designing<br>- 🌱 I’m currently brushing up my algorithms  and Data structures skills<br>- 💞️ I’m looking to collaborate on any project as long as I can help and/or learn along the way<br>- 🥅 My goals are to: Contribute  to Open Source projects and become a better programmer</p>
 
 ###
 
